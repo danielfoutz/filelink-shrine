@@ -94,9 +94,9 @@ contact info below or through GitHub.
 That said, you have full permission to use any of the source
 code for Filelink Shrine in your own projects and experiments,
 even if you sell the product (though I wouldn't advise that).
-I ask that you don't use any of the contained images or the 
-icon. If you do use any of my work for a project or just to
-learn I would love to hear about it, please contact me.
+You do not have permission to use any of the contained images 
+or the icon. If you do use any of my work for a project or 
+to learn I would love to hear about it, please contact me.
 
 The name is a Dark Souls pun, as are the cryptic window header
 messages.
